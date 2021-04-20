@@ -9,7 +9,7 @@
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient( rgba(4, 9, 30, 0.5), rgba(4, 9, 30, 0.295)), url(images/pexels-ivan-samkov-5676741.jpg);
+    background-image: linear-gradient( rgba(4, 9, 30, 0.5), rgba(4, 9, 30, 0.295)), url(pexels-ivan-samkov-5676741.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -310,7 +310,7 @@ h3{
 .cta{
     margin: 100px auto;
     width: 80%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.493), rgba(0, 0, 0, 0.534)),url(images/pexels-max-fischer-5212345.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.493), rgba(0, 0, 0, 0.534)),url(pexels-max-fischer-5212345.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
